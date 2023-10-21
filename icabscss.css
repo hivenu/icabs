@@ -1,0 +1,42 @@
+.bg{
+    background-image: url("bg1.jpeg");
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+}
+.bg1{
+    background-image: url("employee.jpg");
+    background-repeat: no-repeat;
+    height: 50vh;
+    width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.bg2{
+    background-color: rgb(13, 29, 101);
+    height: 100%;
+    width: 100%;
+ }
+.icon{
+    border:3px solid gray;
+    border-radius: 50%;
+    font-size: 50px;
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    color: blue;
+}
+.farm{
+    height: 50px;
+    width: 500px;
+    background-color: white;
+    border-radius: 10px;
+    justify-content: space-between;
+    padding: 5px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+}
+footer li{
+    list-style: none;
+}
